@@ -27,9 +27,12 @@ User stories
 -Users will be able to fully edit their favorite's list.
 
 Wireframes
-![](../../../../Downloads/Home.jpg)
-![](../../../../Downloads/Restaurant_Detail.jpg)
-![](../../../../Downloads/Favorites.jpg)
+![Home](https://user-images.githubusercontent.com/29083357/190852464-76d71bf7-7e1d-4f8b-99db-2bab1ac6f173.jpg)
+![Restaurant_Detail](https://user-images.githubusercontent.com/29083357/190852477-44b3eb46-400b-4f51-b8f5-e0d7a2ffe787.jpg)
+![Favorites](https://user-images.githubusercontent.com/29083357/190852482-c1374a9a-8fc8-44ac-8b9d-fcdd77636ced.jpg)
+
+
+
 
 Anything else your squad lead should know
 Stretch goals include integrating the Google Maps API so that users can see their favorites on a map. If possible an AD API would be great to more closely imitate the Yelp website.
